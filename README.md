@@ -9,31 +9,34 @@
 
 ####Class:
 - **Frame **
- - Login.java: user interface
- - Callao.java: political map of callao
- - Resultados.java : Results frame
+  - Login.java: user interface
+  - Callao.java: political map of callao
+  - Resultados.java : Results frame
  
 - **algorithm**
- - Floyd.java : implementacion algoritmo de floyd
+  - Floyd.java : implementacion algoritmo de floyd
 - **img**
- - imagenes
+  - imagenes
 - **model**
- - Empleado: courier 
- - Lugar: callao region
+  - Empleado: courier 
+  - Lugar: callao region
 
  ##### Interface 1:
+ 
+ [![login](http://https://github.com/Pucho007/Algorithm-Floyd/blob/master/src/img/Captura%20de%20Pantalla%202020-08-03%20a%20la(s)%2014.29.25.png "login")](http://https://github.com/Pucho007/Algorithm-Floyd/blob/master/src/img/Captura%20de%20Pantalla%202020-08-03%20a%20la(s)%2014.29.25.pnghttp:// "login")
+ 
  Users:
  - juan    			123
  - pedro 			123
  - fernando 		123
  
-#####Interface 2:
+##### Interface 2:
 It shows the map of the Callao region, where each botom represents a specific street.
 
 You must choose the place where you are ", later you will get a message about an order with its shipping address, you can choose to accept or not.
 
 
-#####Interface 3:
+##### Interface 3:
 When accepting, it will show you a box where the expenses in gasoline and money (S /. Nuevos soles) that you will spend until you get there appear.
 
 It also shows you the route you must follow.
