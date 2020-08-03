@@ -1,14 +1,14 @@
 # Algorithm-Floyd
  Application of the Floyd algorithm in the use of finding the minimum route in the delivery of parcels for the Callao district in Lima, Peru.
 
- ###Requirements:
+ ### Requirements:
  - NetBeans IDE 8.2
  - Java JDK 1.8
 
 ### Deploy
 
-####Class:
-- **Frame **
+#### Class:
+- **Frame**
   - Login.java: user interface
   - Callao.java: political map of callao
   - Resultados.java : Results frame
@@ -21,10 +21,7 @@
   - Empleado: courier 
   - Lugar: callao region
 
- ##### Interface 1:
- 
- [![login](http://https://github.com/Pucho007/Algorithm-Floyd/blob/master/src/img/Captura%20de%20Pantalla%202020-08-03%20a%20la(s)%2014.29.25.png "login")](http://https://github.com/Pucho007/Algorithm-Floyd/blob/master/src/img/Captura%20de%20Pantalla%202020-08-03%20a%20la(s)%2014.29.25.pnghttp:// "login")
- 
+ ##### Interface 1: 
  Users:
  - juan    			123
  - pedro 			123
